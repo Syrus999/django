@@ -1,2 +1,2 @@
 # django
-M django project
+My django project
